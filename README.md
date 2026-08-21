@@ -217,7 +217,7 @@ It represents modern infrastructure and deployment workflows through connected 3
 ### Technologies Represented
 
 * Git
-* GitLab
+* GitHub / GitLab
 * Docker
 * Kubernetes
 * Terraform
@@ -267,7 +267,7 @@ It represents modern infrastructure and deployment workflows through connected 3
 ## Development Tools
 
 * Git
-* GitLab
+* GitHub / GitLab
 * npm
 * VS Code
 
@@ -323,13 +323,13 @@ git --version
 ## Clone the Repository
 
 ```bash
-git clone <YOUR_GITLAB_REPOSITORY_URL>
+git clone https://github.com/bicky8260/My_Portfolio_3D.git
 ```
 
 Navigate to the project:
 
 ```bash
-cd 3d_portfolio
+cd My_Portfolio_3D
 ```
 
 ---
@@ -375,9 +375,9 @@ If environment variables are required, create a `.env` file in the project root.
 Example:
 
 ```env
-VITE_LINKEDIN_URL=
-VITE_GITHUB_URL=
-VITE_EMAIL=
+VITE_LINKEDIN_URL=https://www.linkedin.com/in/biswajit-mishra-b61b55345/
+VITE_GITHUB_URL=https://github.com/bicky8260/My_Portfolio_3D
+VITE_EMAIL=biswajitmishra@example.com
 ```
 
 Do not commit sensitive information such as:
