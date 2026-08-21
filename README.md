@@ -377,7 +377,7 @@ Example:
 ```env
 VITE_LINKEDIN_URL=https://www.linkedin.com/in/biswajit-mishra-b61b55345/
 VITE_GITHUB_URL=https://github.com/bicky8260/My_Portfolio_3D
-VITE_EMAIL=biswajitmishra@example.com
+VITE_EMAIL=biswajitmishra545@example.com
 ```
 
 Do not commit sensitive information such as:
